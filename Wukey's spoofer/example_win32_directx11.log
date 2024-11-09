@@ -1,0 +1,134 @@
+﻿  imgui_freetype.cpp
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(109,21): error C3646: 'OffsetX': unknown override specifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(109,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(110,21): error C3646: 'OffsetY': unknown override specifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(110,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(130,42): error C2061: syntax error: identifier 'FT_Library'
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(133,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(133,31): error C2143: syntax error: missing ';' before '*'
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(133,65): error C2238: unexpected token(s) preceding ';'
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(134,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(134,24): error C2143: syntax error: missing ';' before '*'
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(134,74): error C2238: unexpected token(s) preceding ';'
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(135,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(135,58): error C2143: syntax error: missing ',' before '*'
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(140,25): error C3646: 'Face': unknown override specifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(140,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(142,25): error C3646: 'LoadFlags': unknown override specifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(142,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(143,25): error C3646: 'RenderMode': unknown override specifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(143,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(149,24): error C2761: 'bool `anonymous-namespace'::FreeTypeFont::InitFont(void)': redeclaration of member is not allowed
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(149,33): error C2065: 'FT_Library': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(149,44): error C2146: syntax error: missing ')' before identifier 'ft_library'
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(150,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(150,5): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(194,13): error C2065: 'Face': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(196,26): error C2065: 'Face': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(196,13): error C3861: 'FT_Done_Face': identifier not found
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(197,13): error C2065: 'Face': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(206,9): error C2065: 'FT_Size_RequestRec': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(206,28): error C2146: syntax error: missing ';' before identifier 'req'
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(206,28): error C2065: 'req': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(207,9): error C2065: 'req': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(207,69): error C2065: 'FT_SIZE_REQUEST_TYPE_NOMINAL': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(207,100): error C2065: 'FT_SIZE_REQUEST_TYPE_REAL_DIM': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(208,9): error C2065: 'req': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(209,9): error C2065: 'req': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(210,9): error C2065: 'req': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(211,9): error C2065: 'req': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(212,25): error C2065: 'Face': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(212,32): error C2065: 'req': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(212,9): error C3861: 'FT_Request_Size': identifier not found
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(215,9): error C2065: 'FT_Size_Metrics': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(215,25): error C2146: syntax error: missing ';' before identifier 'metrics'
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(215,25): error C2065: 'metrics': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(215,35): error C2065: 'Face': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(217,32): error C2065: 'metrics': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(218,33): error C2065: 'metrics': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(219,35): error C2065: 'metrics': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(220,31): error C2065: 'metrics': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(221,39): error C2065: 'metrics': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(224,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(224,27): error C2143: syntax error: missing ';' before '*'
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(224,43): error C2039: 'LoadGlyph': is not a member of '`anonymous-namespace'::FreeTypeFont'
+      C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(128,12):
+      see declaration of '`anonymous-namespace'::FreeTypeFont'
+  
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(224,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(225,5): error C2059: syntax error: '{'
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(225,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(225,5): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(258,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(258,20): error C2143: syntax error: missing ';' before '*'
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(258,36): error C2039: 'RenderGlyphAndGetInfo': is not a member of '`anonymous-namespace'::FreeTypeFont'
+      C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(128,12):
+      see declaration of '`anonymous-namespace'::FreeTypeFont'
+  
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(258,36): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(259,5): error C2059: syntax error: '{'
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(259,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(259,5): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(276,34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(276,49): error C2143: syntax error: missing ',' before '*'
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(276,40): warning C4458: declaration of 'FT_Bitmap' hides class member
+      C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(134,15):
+      see declaration of '`anonymous-namespace'::FreeTypeFont::FT_Bitmap'
+  
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(278,9): error C2065: 'ft_bitmap': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(279,28): error C2065: 'ft_bitmap': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(279,24): error C2737: 'w': const object must be initialized
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(280,28): error C2065: 'ft_bitmap': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(280,24): error C2737: 'h': const object must be initialized
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(281,30): error C2065: 'ft_bitmap': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(282,36): error C2065: 'ft_bitmap': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(282,24): error C2737: 'src_pitch': const object must be initialized
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(284,17): error C2065: 'ft_bitmap': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(286,14): error C2065: 'FT_PIXEL_MODE_GRAY': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(286,14): error C2131: expression did not evaluate to a constant
+      C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(286,14):
+      a non-constant (sub-)expression was encountered
+  
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(288,17): error C2065: 'multiply_table': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(290,68): error C2065: 'dst': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(290,75): error C2065: 'dst_pitch': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(292,25): error C2065: 'dst': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(296,68): error C2065: 'dst': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(296,75): error C2065: 'dst_pitch': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(298,25): error C2065: 'dst': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(298,34): error C2065: 'multiply_table': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(302,14): error C2065: 'FT_PIXEL_MODE_MONO': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(302,14): error C2131: expression did not evaluate to a constant
+      C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(302,14):
+      a non-constant (sub-)expression was encountered
+  
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(304,30): error C2065: 'multiply_table': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(304,47): error C2065: 'multiply_table': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(305,30): error C2065: 'multiply_table': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(305,47): error C2065: 'multiply_table': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(306,64): error C2065: 'dst': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(306,71): error C2065: 'dst_pitch': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(314,21): error C2065: 'dst': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(319,14): error C2065: 'FT_PIXEL_MODE_BGRA': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(319,14): error C2131: expression did not evaluate to a constant
+      C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(319,14):
+      a non-constant (sub-)expression was encountered
+  
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(323,17): error C2065: 'multiply_table': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(325,68): error C2065: 'dst': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(325,75): error C2065: 'dst_pitch': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(329,25): error C2065: 'dst': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(334,68): error C2065: 'dst': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(334,75): error C2065: 'dst_pitch': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(339,25): error C2065: 'dst': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(339,34): error C2065: 'multiply_table': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(395,37): error C2065: 'FT_Library': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(395,48): error C2146: syntax error: missing ')' before identifier 'ft_library'
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(396,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(396,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(711,29): error C2065: 'FT_Memory': undeclared identifier
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\imgui_freetype.cpp(711,29): error C1003: error count exceeds 100; stopping compilation
+  selfcode.cpp
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\examples\example_win32_directx11\protection\selfcode\selfcode.cpp(23,73): warning C4100: 'Section': unreferenced formal parameter
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\examples\example_win32_directx11\protection\selfcode\selfcode.cpp(58,95): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\timot\OneDrive\Desktop\Wukey's fn cheats fr\Fragment_Remake\Fragment Remake\examples\example_win32_directx11\protection\selfcode\selfcode.cpp(110,42): warning C4189: 'zxcv': local variable is initialized but not referenced

@@ -1,0 +1,14 @@
+F:\Polaris W\imgui.cpp;F:\Polaris W\examples\example_win32_directx11\Release\imgui.obj
+F:\Polaris W\imgui_draw.cpp;F:\Polaris W\examples\example_win32_directx11\Release\imgui_draw.obj
+F:\Polaris W\imgui_freetype.cpp;F:\Polaris W\examples\example_win32_directx11\Release\imgui_freetype.obj
+F:\Polaris W\imgui_tables.cpp;F:\Polaris W\examples\example_win32_directx11\Release\imgui_tables.obj
+F:\Polaris W\imgui_widgets.cpp;F:\Polaris W\examples\example_win32_directx11\Release\imgui_widgets.obj
+F:\Polaris W\backends\imgui_impl_dx11.cpp;F:\Polaris W\examples\example_win32_directx11\Release\imgui_impl_dx11.obj
+F:\Polaris W\backends\imgui_impl_win32.cpp;F:\Polaris W\examples\example_win32_directx11\Release\imgui_impl_win32.obj
+F:\Polaris W\examples\example_win32_directx11\main.cpp;F:\Polaris W\examples\example_win32_directx11\Release\main.obj
+F:\Polaris W\examples\example_win32_directx11\protection\selfcode\filler.cpp;F:\Polaris W\examples\example_win32_directx11\Release\filler.obj
+F:\Polaris W\examples\example_win32_directx11\protection\selfcode\ntapi.cpp;F:\Polaris W\examples\example_win32_directx11\Release\ntapi.obj
+F:\Polaris W\examples\example_win32_directx11\protection\selfcode\pe_header.cpp;F:\Polaris W\examples\example_win32_directx11\Release\pe_header.obj
+F:\Polaris W\examples\example_win32_directx11\protection\selfcode\remap.cpp;F:\Polaris W\examples\example_win32_directx11\Release\remap.obj
+F:\Polaris W\examples\example_win32_directx11\protection\selfcode\selfcode.cpp;F:\Polaris W\examples\example_win32_directx11\Release\selfcode.obj
+F:\Polaris W\examples\example_win32_directx11\spoof.cpp;F:\Polaris W\examples\example_win32_directx11\Release\spoof.obj
